@@ -9,6 +9,7 @@
     "cmake.configureOnOpen": false,
     "python.analysis.typeCheckingMode": "basic",
     "files.associations": {
+        "*.embeddedhtml": "html",
         "__bit_reference": "cpp",
         "__config": "cpp",
         "__debug": "cpp",
@@ -100,6 +101,7 @@
         "valarray": "cpp",
         "__hash_table": "cpp",
         "queue": "cpp",
-        "future": "cpp"
+        "future": "cpp",
+        "cfenv": "cpp"
     }
 }
